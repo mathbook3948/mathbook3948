@@ -55,19 +55,26 @@
 </p>
 
 ## 🛠️ 주요 프로젝트
-### 1. **VETeran** (AI 기반 수의사 보조 솔루션)
+### 1. **카툰바라** (Passwordless 인증 웹툰 리뷰 플랫폼)
+- **기간:** 2024.11.15 ~ 2024.12.13 (4주)
+- **기술 스택:** Java, TypeScript, React, Spring Boot, Oracle, Passwordless X.1280, Docker
+- **설명:**
+  - 웹툰 리뷰와 소셜 기능을 결합한 플랫폼으로, **국제 보안 표준 Passwordless X.1280**을 적용하여 사용자 편의성과 보안성을 대폭 강화했습니다.
+  - 
+### 2. **VETeran** (AI 기반 수의사 보조 솔루션)
 - **기간:** 2025.02.10 ~ 2025.03.14 (5주) - 진행중
 - **기술 스택:** Java, TSX, Python, Spring Boot, React, Django, FastAPI, MySQL, Redis, ElasticSearch
 - **설명:** 
   - AI 기반으로 수의사의 진단과 분석을 보조하는 솔루션입니다.
   - **딥러닝 기반 X-ray 이미지 분석**을 통해 동물의 건강 상태를 신속하게 진단하며, 병원의 마약류 의약품 관리 시스템을 보완하는 기능을 개발 중입니다.
 
-### 2. **카툰바라** (Passwordless 인증 웹툰 리뷰 플랫폼)
-- **기간:** 2024.11.15 ~ 2024.12.13 (4주)
-- **기술 스택:** Java, TypeScript, React, Spring Boot, Oracle, Passwordless X.1280, Docker
+### 3. **QRGate** (QR코드 기반 오프라인 인증 솔루션)
+- **기간:** 2025.02.03~2025.02.10
+- **기술 스택:** Python, TSX, FastAPI, Websocket, Redis, SQLite
 - **설명:**
-  - 웹툰 리뷰와 소셜 기능을 결합한 플랫폼으로, **국제 보안 표준 Passwordless X.1280**을 적용하여 사용자 편의성과 보안성을 대폭 강화했습니다.
-  
+  - 오프라인 환경에서도 안전하고 간편한 사용자 인증을 지원하는 솔루션입니다.
+  - 키오스크에서 생성된 QR코드를 사용자가 스마트폰으로 스캔하면, 자동으로 로그인 페이지로 리다이렉트되어 즉각적인 인증 절차가 진행됩니다.
+  - JWT 토큰, 만료 시간, 인증용 서명을 활용하여 보안성을 강화하였으며, 실시간 WebSocket 통신과 Redis의 PUBLISH/SUBSCRIBE 메커니즘을 통해 인증 완료 신호를 신속하게 전달합니다.
 ---
 
 ## 📬 Contact Me
