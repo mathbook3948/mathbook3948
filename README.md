@@ -56,7 +56,7 @@
 
 ## 🛠️ 주요 프로젝트
 ### 1. **VETeran** (AI 기반 수의사 보조 솔루션)
-- **기간:** 2025.02.10 ~ 2025.03.14 (5주)
+- **기간:** 2025.02.10 ~ 2025.03.14 (5주) - 진행중
 - **기술 스택:** Java, TSX, Python, Spring Boot, React, Django, FastAPI, MySQL, Redis, ElasticSearch
 - **설명:** 
   - AI 기반으로 수의사의 진단과 분석을 보조하는 솔루션입니다.
