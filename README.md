@@ -60,7 +60,7 @@
 - **기술 스택:** Java, TypeScript, React, Spring Boot, Oracle, Passwordless X.1280, Docker
 - **설명:**
   - 웹툰 리뷰와 소셜 기능을 결합한 플랫폼으로, **국제 보안 표준 Passwordless X.1280**을 적용하여 사용자 편의성과 보안성을 대폭 강화했습니다.
-  - 
+    
 ### 2. **VETeran** (AI 기반 수의사 보조 솔루션)
 - **기간:** 2025.02.10 ~ 2025.03.14 (5주) - 진행중
 - **기술 스택:** Java, TSX, Python, Spring Boot, React, Django, FastAPI, MySQL, Redis, ElasticSearch
