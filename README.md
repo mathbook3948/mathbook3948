@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/ML%20Framework-Keras-%23D00000.svg?style=flat&logo=keras&logoColor=white" alt="Keras" style="margin-right: 5px;">
   <img src="https://img.shields.io/badge/Computer%20Vision-OpenCV-%235C3EE8.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV" style="margin-right: 5px;">
 </p>
----
 
 ## 🛠️ 주요 프로젝트
 ### 1. **VETeran** (AI 기반 수의사 보조 솔루션)
